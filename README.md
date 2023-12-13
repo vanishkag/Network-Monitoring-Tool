@@ -36,13 +36,4 @@ Ensure you have installed the following dependencies:
 2. Run the compiled executable with appropriate permissions and specify the network interface.
 3. Check the console output or generated log files for analysis results.
 
-Feel free to explore and modify the code according to your requirements. Please ensure you have the necessary permissions to capture network packets.
-
----
-
-**Key Takeaways:**
-- The repository contains C code snippets utilizing libpcap for network packet analysis.
-- Each file showcases different functionalities like threat detection, bandwidth measurement, packet information extraction, and IP tracking.
-- Compile the code using gcc and run the executables with suitable permissions and network interfaces.
-
 For more details, refer to the individual code files and their respective functionalities.
